@@ -3,8 +3,10 @@
 #include <algorithm>
 #include <chrono>
 #include <cstdint>
+#include <cstdlib>
 #include <iostream>
 #include <random>
+#include <string>
 #include <vector>
 
 template <class Sort>
